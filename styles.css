@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+img{
+	display: block;
+	margin: 0px auto;
+	width: 300px;
+	height: 190px;
+}
+h1{
+	margin: 0px;
+	text-align: center;
+	font-size: 52px;
+}
+p{
+	text-align: center;
+	width: 270px;
+	font-size: 30px;
+	margin: auto;
+}
+button{
+	border: none;
+	background-color: #ef574c;
+	color: white;
+	border-radius: 18px;
+	padding: 10px 10px;
+	width: 130px;
+	height: 65px;
+	font-size: 25px;
+	display: block;
+	margin:10px auto;
+}
+div{
+	padding: 50px 0px;
+	width: 420px;
+	background-color: #EEEEEE;
+	box-shadow: 0px 10px 5px 1px #D8D8D8;
+	
+}
